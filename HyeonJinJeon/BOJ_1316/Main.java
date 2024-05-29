@@ -1,3 +1,5 @@
+package BOJ_1316;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
