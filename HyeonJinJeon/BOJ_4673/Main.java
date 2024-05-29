@@ -1,3 +1,5 @@
+package BOJ_4673;
+
 public class Main {
     public static void main(String[] args) {
         boolean[] arr = new boolean[10001];
