@@ -23,6 +23,7 @@ public class Main {
             sum += n;
         }
 
-        System.out.println(sum); 
+        System.out.println(sum);
+      
     }
 }
